@@ -1,8 +1,9 @@
-# NewsHealines
+# NewsHeadlines
 
-google developer link -https://g.dev/Vasanth20
+## google developer link 
+https://g.dev/Vasanth20
 
-google developer link https://g.dev/Subramanian
+https://g.dev/Subramanian
 
 https://g.dev/MuthuSanthosh
 
